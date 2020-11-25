@@ -1,6 +1,9 @@
 INIParser
 =========
 
+arm-hisiv600-linux-g++ *.cpp -o test -std=gnu++11
+
+
 The ini file(a configured file) parser of library by C++.  The Windows/Linux/Mac supporting!    
 
 1.Assumption a ini file named conf.ini, as follows:    
